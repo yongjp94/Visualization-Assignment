@@ -1,4 +1,8 @@
+Yongjun (John) Park
+INFO 474
+Visualization
 
+Active Website: 
 
 
 The axes for the first two graphs are common. The Y-axis is the MIC measurement, while the X-axis is the different types of bacteria.  A log scale was used to scale Y-axis since there were exponential differences among MIC values. This allowed smaller values to be more visible. Then each bar was given either red or purple outlines. This was to intuitively allow users to check for gram staining because gram stain positive bacteria will turn purple, while gram stain negative bacteria will turn red. The bars were filled with pastel tone colors to give the eyes an easier time so that no one set of data will distract the users from another one.
